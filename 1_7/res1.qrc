@@ -1,0 +1,84 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="1">face/1.gif</file>
+        <file alias="2">face/2.gif</file>
+        <file alias="3">face/3.gif</file>
+        <file alias="4">face/4.gif</file>
+        <file alias="5">face/5.gif</file>
+        <file alias="6">face/6.gif</file>
+        <file alias="7">face/7.gif</file>
+        <file alias="8">face/8.gif</file>
+        <file alias="9">face/9.gif</file>
+        <file alias="10">face/10.gif</file>
+        <file alias="11">face/11.gif</file>
+        <file alias="12">face/12.gif</file>
+        <file alias="13">face/13.gif</file>
+        <file alias="14">face/14.gif</file>
+        <file alias="15">face/15.gif</file>
+        <file alias="16">face/16.gif</file>
+        <file alias="17">face/17.gif</file>
+        <file alias="18">face/18.gif</file>
+        <file alias="19">face/19.gif</file>
+        <file alias="20">face/20.gif</file>
+        <file alias="21">face/21.gif</file>
+        <file alias="22">face/22.gif</file>
+        <file alias="23">face/23.gif</file>
+        <file alias="24">face/24.gif</file>
+        <file alias="25">face/25.gif</file>
+        <file alias="26">face/26.gif</file>
+        <file alias="27">face/27.gif</file>
+        <file alias="28">face/28.gif</file>
+        <file alias="29">face/29.gif</file>
+        <file alias="30">face/30.gif</file>
+        <file alias="31">face/31.gif</file>
+        <file alias="32">face/32.gif</file>
+        <file alias="33">face/33.gif</file>
+        <file alias="34">face/34.gif</file>
+        <file alias="35">face/35.gif</file>
+        <file alias="36">face/36.gif</file>
+        <file alias="37">face/37.gif</file>
+        <file alias="38">face/38.gif</file>
+        <file alias="39">face/39.gif</file>
+        <file alias="40">face/40.gif</file>
+        <file alias="41">face/41.gif</file>
+        <file alias="42">face/42.gif</file>
+        <file alias="43">face/43.gif</file>
+        <file alias="44">face/44.gif</file>
+        <file alias="45">face/45.gif</file>
+        <file alias="46">face/46.gif</file>
+        <file alias="47">face/47.gif</file>
+        <file alias="48">face/48.gif</file>
+        <file alias="49">face/49.gif</file>
+        <file alias="50">face/50.gif</file>
+        <file alias="51">face/51.gif</file>
+        <file alias="52">face/52.gif</file>
+        <file alias="53">face/53.gif</file>
+        <file alias="54">face/54.gif</file>
+        <file alias="55">face/55.gif</file>
+        <file alias="56">face/56.gif</file>
+        <file alias="57">face/57.gif</file>
+        <file alias="58">face/58.gif</file>
+        <file alias="59">face/59.gif</file>
+        <file alias="60">face/60.gif</file>
+        <file alias="61">face/61.gif</file>
+        <file alias="62">face/62.gif</file>
+        <file alias="63">face/63.gif</file>
+        <file alias="64">face/64.gif</file>
+        <file alias="65">face/65.gif</file>
+        <file alias="66">face/66.gif</file>
+        <file>face/67.gif</file>
+        <file>face/68.gif</file>
+        <file>face/69.gif</file>
+        <file>face/70.gif</file>
+        <file>face/71.gif</file>
+        <file>face/72.gif</file>
+        <file>face/73.gif</file>
+        <file>face/74.gif</file>
+        <file>face/75.gif</file>
+        <file>face/76.gif</file>
+        <file>face/77.gif</file>
+        <file>face/78.gif</file>
+        <file>face/79.gif</file>
+        <file>face/80.gif</file>
+    </qresource>
+</RCC>

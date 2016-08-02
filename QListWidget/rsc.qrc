@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Chrome">Chrome.png</file>
+        <file>Firefox.png</file>
+        <file alias="IE">ie.png</file>
+        <file>Maxthon.png</file>
+        <file alias="Netscape">netscape.png</file>
+        <file>Safari.png</file>
+        <file alias="TheWorld">theworld.png</file>
+        <file alias="Traveler">traveler.png</file>
+    </qresource>
+</RCC>
